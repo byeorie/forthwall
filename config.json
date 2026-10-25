@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "owner": "byeorie",
+ "repo": "forthwall",
+ "branch": "main",
+ "resultsBranch": "results",
+ "accounts": [
+  {
+   "id": "master",
+   "role": "master",
+   "salt": "EKmUlQwj9tVMEAQHj7pIGg==",
+   "data": "oTq55nadxosMrCgutc+nkIRKXzFhFbfxEeBuJnzXFdjmkFcYEYYsapgcFdBr5nWa7OlwnNkidoRoygBiEIauEn0oamFL1Xmhi+WShRsmOWo/hyp8O1hRKHi4Yja6Rwl5D4/9A4DrbS9XKnNHRaO28Yp9FmFpV20+GRJDc6prZi3tPyheU0FvvusuY7cQzib4mqQ/lysAcbMGaQeG+GeCBVNG9h6OcECJbGRYdT7wbVyxNUqOZiV/IaWV"
+  },
+  {
+   "id": "coder1",
+   "role": "coder",
+   "salt": "WrkvGnT5kYEGkzvhwiEyjA==",
+   "data": "EUD/oEBqduC+x46R4GMNVEd6xrxcMRmNYqupnlU/vMggIuOfk99pC01vFvDiBw4i3NsbbA0T6JyQgnvMT9k4WDneYHEdmJZJhlw8xthffBZSriU7N/ZWRWQtspWO5HqBHbgIXWVp7GKNnI/7qWpkBrwoudh8fDGyKmAJBEQ6O8oWp7c+2TH2r/mlBZkgGGB0xT+ohlXV1ijjjn/5ZhM4GQ3XqqDQifE1kux97WVqr9Fl7n0MVB9dOJTR"
+  },
+  {
+   "id": "coder2",
+   "role": "coder",
+   "salt": "FEm0bxxfaI/hFgFDRtY3sw==",
+   "data": "ztIvOJhFAxiDfoiEWSB2SoD9iwfBESOpNPo6TlVLvx+FyDZYdDLih0+tR8aVfgI8+bluEstBNpeZFWcWh5UFW/qqksWYp08lGzQ8BTttVmcWcKsYyATSzr4k3SXNyxxOLOUtCMWkhps/1+oMWuuhuQkPxweIk7ksUr6+xnX2iBYzN4LfSq5mqGWFsTxRXCBbxHw6P99rnd9Gkg+R5uq4iEdZv3FqhIehTdeS2FAJ5Rp++77vvEQqp6XR"
+  },
+  {
+   "id": "coder3",
+   "role": "coder",
+   "salt": "JzTEAuMPgnZD1XdJL/ugmQ==",
+   "data": "mzPXdJ+SCmkNUrZQEGNIRA+5pcyXhcInKxTUz1pJ0uIG0UbElyvDXc66IHLDPwxdeJZlvQ25E3sQ5ctXR9LfeEu3G16ANOwTWtOE0xE5RuuZqXpyhZoE6rZ11bA7bTYjqvmef2oRa4s+yqnd/KydtlXYmO4QY+/++OIQKHy1SMyDsfIl/0xI9rgsa1qpHh/+hNFAa9CiAwMfGq7ET1Dx0O13nrGqqEtGGrsEVJjjbIUQ1aCabf7hF/qM"
+  },
+  {
+   "id": "coder4",
+   "role": "coder",
+   "salt": "/SFUQw/nKTDcCif+n1n4gw==",
+   "data": "PQwnrHbDwLocMdSA2yjzljoM6kGl82eQ0pfhdz0bqWvHLUzkKUiQ40+tF7mcEgShH4lp92JXWWGAm7ZnPtwfvwGBLAcmiRDwOJAuW/fBBBHB2TI0p2eRN+D7GrukTbLF3GPNCuEuX94wT4ed1KwdR6PmXsc7vGR1G7lpMA/qm0yvBzoPRwca447/FoHAJbMQSdTwpVhqnCRfI9I+z5NQEuSc/QPF+4YOTfNZORT8IxBPYR6EBmpq9+o0"
+  },
+  {
+   "id": "coder5",
+   "role": "coder",
+   "salt": "ELtmFdKX5Hx0VTlwqAVk7g==",
+   "data": "R953I4VX1KOTYEwEQy8reBGIU2PxiVXERWOj1vEWBfKbSvfhsGKksaXyNdTsMfK6AeyCgsT/TPTJPfDRV6EnVbqPL7TIhThFyThXltnmmb2nQx7nftvpQTfnQJDsRolX2yhtO0U6EBS/AKvXofneT2AYAE4SIXVnHwfTL8edfUO/vnlILv+Z1jUuxkEb+34jDmp16A1Yxp92v6ysTozAcffTzVwlevaJ0tk3MLdVEUtSthDCKHY6Mlzy"
+  }
+ ],
+ "updatedAt": "2026-10-25T10:17:49.653Z"
+}
